@@ -1,4 +1,4 @@
-<h1> Hey, I am Tushar Khatri! </h1>
+<h1> Hey, I'm Tushar Khatri! </h1>
 
 <h2> Glad to see you here! </h2>
 
@@ -21,8 +21,8 @@ I am a Full Stack Web Developer, always up for learning and growing. I like to m
 <img align = "left" src = "Logos/cpp.png" alt = "C++" height = "30px"> 
 <img align = "left" src = "Logos/azure.png" alt = "Azure" height = "45px">
 <img align = "left" src = "Logos/ps.png" alt = "Adobe Photoshop" height = "30px"> 
-<img align = "left" src = "Logos/ps.png" alt = "Adobe Premiere Pro" height = "30px"> 
-<img align = "left" src = "Logos/ps.png" alt = "Adobe After Effects" height = "30px"> 
+<img align = "left" src = "Logos/ap.png" alt = "Adobe Premiere Pro" height = "30px"> 
+<img align = "left" src = "Logos/ae.png" alt = "Adobe After Effects" height = "30px"> 
 
 <br>
 
