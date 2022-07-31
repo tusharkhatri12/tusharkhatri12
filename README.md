@@ -19,7 +19,8 @@ I am a Full Stack Web Developer, always up for learning and growing. I like to m
 <img align = "left" src = "Logos/nodejs.png" alt = "NodeJs" height = "30px"> 
 <img align = "left" src = "Logos/reactjs.png" alt = "ReactJs" height = "30px"> 
 <img align = "left" src = "Logos/cpp.png" alt = "C++" height = "30px"> 
-<img align = "left" src = "Logos/azure.png" alt = "Azure" height = "45px">
+<img align = "left" src = "Logos/mongo.png" alt = "MongoDB" height = "30px">
+<img align = "left" src = "Logos/azure.png" alt = "Azure" height = "30px">
 <img align = "left" src = "Logos/ps.png" alt = "Adobe Photoshop" height = "30px"> 
 <img align = "left" src = "Logos/ap.png" alt = "Adobe Premiere Pro" height = "30px"> 
 <img align = "left" src = "Logos/ae.png" alt = "Adobe After Effects" height = "30px"> 
